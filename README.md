@@ -1,0 +1,2 @@
+# springcloud_hibernate
+自己学习的demo，架构使用springcloud，orm使用的hibernate
